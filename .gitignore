@@ -28,3 +28,6 @@ typedoc-*.tar.gz-dev
 
 # Rslib (For global type generation)
 .rslib/
+
+# AI Assistant
+.kilocode/
